@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hi there, I'm Henry Tran 👋</h1>
 
 <p align="center">

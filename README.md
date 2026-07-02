@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi there, I'm Henry Tran 👋</h1>
 
 <p align="center">
@@ -15,8 +16,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently researching **Step-Level Feedback Distillation (SLFD)** — improving step-level reasoning in LLMs
-- 🤖 Lead Programmer for **VEX Robotics Mt.SAC1** — placed **13th in Skills at VEX Worlds 2026**
+- 🔭 Currently researching **Step-Level Feedback Distillation (SLFD)** 
+- 🤖 Lead Programmer for **VEX Robotics Mt.SAC1** and placed **13th in Skills at VEX Worlds 2026**
 - 🌱 Learning more about **AI-integrated robotics**, **semiconductor design**, and **full-stack development**
 
 - ⚡ Fun fact: I'm a gym rat and have been working out for 7 years 💪
@@ -34,14 +35,14 @@
 
 ## 🔬 Research & Projects
 
-**📄 Step-Level Feedback Distillation (SLFD)** — *ML Researcher · 2025–Present*  
+**Step-Level Feedback Distillation (SLFD)** — *ML Researcher · 2025–Present*  
 Investigating feedback distillation to enhance step-level reasoning in language models.  
 [View Repository](https://github.com/edward-lcl/feedback-distillation)
 
-**👗 Fashion-MNIST Clothing Classifier** — *Machine Learning · 2026*  
+**Fashion-MNIST Clothing Classifier** — *Machine Learning · 2026*  
 Image classification model trained on the Fashion-MNIST dataset.
 
-**🤖 VEX Robotics — Mt.SAC1** — *Lead Programmer · 2025–2026*  
+**VEX Robotics — Mt.SAC1** — *Lead Programmer · 2025–2026*  
 Programmed an autonomous + driver-control competition robot; built a full tutorial for the team.  
 [View Tutorial](https://henrytran07.github.io/mtsac_tutorial/)
 
@@ -85,3 +86,21 @@ Programmed an autonomous + driver-control competition robot; built a full tutori
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henrytran07&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
+=======
+## Hi there 👋
+
+<!--
+**henrytran07/henrytran07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 70d61b2734449c3228cdfca0a397da950d7bfdaf

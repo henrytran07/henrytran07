@@ -40,10 +40,11 @@ Investigating feedback distillation to enhance step-level reasoning in language 
 
 **Fashion-MNIST Clothing Classifier** — *Machine Learning · 2026*  
 Image classification model trained on the Fashion-MNIST dataset.
+[View Repository](https://github.com/henrytran07/image-classifier)
 
 **VEX Robotics — Mt.SAC1** — *Lead Programmer · 2025–2026*  
 Programmed an autonomous + driver-control competition robot; built a full tutorial for the team.  
-[View Tutorial](https://henrytran07.github.io/mtsac_tutorial/)
+[View Website](https://henrytran07.github.io/mtsac_tutorial/)
 
 ---
 

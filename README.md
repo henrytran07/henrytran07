@@ -1,7 +1,5 @@
 # Hi there, I'm Henry 👋
 
----
-
 ### about me
 
 i'm a junior EE student at UCLA. I have a deep passion for building web applications, improving optimization techniques, and developing autonomous systems with machine learning.
